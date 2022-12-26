@@ -1,4 +1,0 @@
-# EZRental Inc.
-
-Screenshots below:
-
