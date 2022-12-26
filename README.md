@@ -1,4 +1,4 @@
-# sProjects
+# EZRental Inc.
 
-SCREENSHOST:
+Screenshots below:
 
