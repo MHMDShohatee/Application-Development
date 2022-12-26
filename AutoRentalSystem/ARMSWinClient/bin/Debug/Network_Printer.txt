@@ -1,0 +1,34 @@
+Credit Card Information: 
+Credit Card Number = 4539645188469971
+Credit Card Owner Name = Eula Salazar
+Credit Card Issuing Company = Visa
+Merchant Code = 5
+Expiration Date = 5/1/2024 12:00:00 AM
+AddressLine1 = 1006 Forest Drive
+AddressLine2 = Apt B
+City = Mclean
+State = VA
+Zip code = 22101
+Country = United States
+Credit Card Limit = 2500.00
+Credit Card Balance = 150.00
+Activation Status = Mclean
+
+
+Credit Card Information: 
+Credit Card Number = 4539645188469971
+Credit Card Owner Name = Eula Salazar
+Credit Card Issuing Company = Visa
+Merchant Code = 5
+Expiration Date = 5/1/2024 12:00:00 AM
+AddressLine1 = 1006 Forest Drive
+AddressLine2 = Apt B
+City = Mclean
+State = VA
+Zip code = 22101
+Country = United States
+Credit Card Limit = 2500.00
+Credit Card Balance = 150.00
+Activation Status = True
+
+
