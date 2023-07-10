@@ -1,9 +1,5 @@
 # EZRental-Inc.
 
-Download and open the EZRental Design & Implementation to see the design analysis and implementations of the database.
-
-## Snippet
-
 ### *Creation of the Database*
 
 ![image](https://user-images.githubusercontent.com/121462721/216703449-124a84de-94f6-40f0-9363-952b1c96c9a7.png)
@@ -42,4 +38,6 @@ Download and open the EZRental Design & Implementation to see the design analysi
 ##### *Print Credit Card*
 ![image](https://user-images.githubusercontent.com/121462721/216709066-ebb051fd-3bd2-4f2d-821c-f4055338c76e.png)
 
+
+###### Download and open the EZRental Design & Implementation to see the design analysis and implementations of the database.
 
